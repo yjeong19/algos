@@ -1,4 +1,3 @@
-""" Young Jeong Assignment 06 quadratic probing """
 from ebook import *
 import math
 import copy

@@ -1,5 +1,3 @@
-""" Young Jeong Assignment 3 Matrix Multiplication """
-
 import random
 import time
 

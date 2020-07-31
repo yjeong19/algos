@@ -1,5 +1,3 @@
-""" Young Jeong Assignment 09 Maximum Flow Problem """
-
 import collections
 from enum import Enum
 
